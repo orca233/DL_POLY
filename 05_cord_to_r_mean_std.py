@@ -19,7 +19,7 @@ y0 = 0
 z0 = 0
 r = 0
 
-mat_r = None
+mat_r = None  # none
 
 for i in range(atn):  # each atm
     mat_each = None
