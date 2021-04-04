@@ -6,6 +6,7 @@ import pandas as pd
 import csv
 import os
 
+
 # README: from coordinate to r, to mean, to Standard Deviation, (last two bottom lines)
 df = pd.read_csv(r'4atms_coordinate.csv')
 data_raw = df.values
